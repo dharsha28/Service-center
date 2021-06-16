@@ -1,0 +1,51 @@
+.Header{
+    position: relative;
+}
+.Top{
+    position: absolute;
+}
+.Top>img{
+    background-size: 100%;
+}
+.devices{
+    opacity: 0.5;
+}
+.Content{
+    margin: 0;
+    text-align: center;
+    padding: 200px 0px 200px 0px;
+}
+.Content>h1{
+    color:black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 45px;
+}
+#center{
+    font-size: 30px;
+}
+.Content>p{
+    color:black;
+    font-size: 30px;
+    font-weight: 600;
+    background-color: unset;
+}
+.phonenumber{
+    color: white;
+    background-color: black;
+    opacity: 0.6;
+    margin: 0px;
+    padding: 25px 20px 25px 20px;
+    width: 100%;
+    height: 100%;
+    font-size: 40px;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+}
+.phonenumber> img{
+    width: 55px;
+    height: 55px;
+}
+.code{
+    color: yellow;
+}

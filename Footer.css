@@ -1,0 +1,17 @@
+#footer{
+    background-image: linear-gradient(to right, red , blue);
+    text-align: center;
+    line-height: 0vw;
+    padding: 20px;
+}
+#footer>h1{
+    font-size: 22px;
+    color: yellow;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+#footer>h4{
+    color: whitesmoke;
+    font-size: 26px;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: 1000;
+}

@@ -1,0 +1,38 @@
+.our_services{
+    background-color: rgba(76, 161, 27, 0.651);
+    color: white;
+    font-weight: 500;
+    padding: 10px 20px;
+    margin: 0px;
+    text-align: center;
+}   
+.ac{
+    margin: 0;
+    width: 100%;
+    padding: 50px 30px;
+} 
+p{
+    padding: 50px 1px;
+    margin: 40px;
+    font-size: 20px;
+    display: grid;    
+}
+#best{
+    background-color:#81b214; 
+    color: white;
+    margin: 0;
+    font-size: 30px;
+    margin:40px 0px;
+    font-weight: 500;
+    padding:20px;
+}
+#best>h3{
+    padding: 30px 30px;
+}
+#ph{
+    font-size: 23px;
+    font-weight: 500;
+}
+.cod{
+    color: yellow;
+}
